@@ -4,8 +4,9 @@ const search = document.getElementById('search')
 
 ///New Today
 //const API_URL = 'http://localhost:2121/api'
-const API_URL = 'https://fdsapias.onrender.com/api'
-const SEARCH_API = 'http://localhost:2121/api/:id?'
+//const API_URL = 'https://fdsapias.onrender.com/api'
+//const SEARCH_API = 'http://localhost:2121/api/:id?'
+const API_URL = https://lazy-gold-cockatoo-wrap.cyclic.app/api
 
 
 // Get initial movies
